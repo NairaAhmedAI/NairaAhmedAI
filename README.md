@@ -5,6 +5,7 @@
 
 <!-- 🎧 Animated cozy coding video -->
 <video src="https://i.imgur.com/kxv8lqM.mp4" width="60%" autoplay loop muted></video>
+
 <br>
 <h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
 <p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast</p>
