@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Tools & Technologies I use
+##  Tools & Technologies I use
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
