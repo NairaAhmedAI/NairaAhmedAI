@@ -3,8 +3,8 @@
 <img src="https://i.pinimg.com/originals/18/3c/77/183c77752f57b37c9b1b9a9b45d6474c.gif" alt="Female Coder" width="55%"/>  
 <br>
 
-# 💫 I'm Just Gril — Naira Ahmed 👑  
-💻 Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast  
+<h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
+<p style="color:#FFB6C1;">💻 Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7A8B8&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+with+PyTorch;Computer+Vision+%26+NLP+Developer;I'm+Just+Grail+💫)](https://git.io/typing-svg)
 
@@ -12,7 +12,14 @@
 
 ---
 
-/NairaAhmed-grey?style=flat&logo=telegram)](https://t.me/your_username_here)
+### 🎧 Vibe Mood — "I'm Just a Girl"
+[![I'm Just a Girl](https://img.youtube.com/vi/PHzOOQfhPFg/0.jpg)](https://www.youtube.com/watch?v=PHzOOQfhPFg)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NairaAhmed&style=flat&color=pink&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairaAhmed&count_bg=%23F7A8B8&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![Telegram Badge](https://img.shields.io/badge/NairaAhmed-grey?style=flat&logo=telegram)](https://t.me/your_username_here)
 
 ---
 
@@ -40,4 +47,5 @@ class NairaAhmed:
 
 me = NairaAhmed()
 me.say_hi()
+
 
