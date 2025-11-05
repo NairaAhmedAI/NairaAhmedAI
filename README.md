@@ -1,6 +1,6 @@
 <div align="center" width="50%">
 
-<img src="https://i.pinimg.com/originals/18/3c/77/183c77752f57b37c9b1b9a9b45d6474c.gif" alt="Female Coder" width="55%"/>  
+<img src="https://i.pinimg.com/originals/85/9d/d4/859dd4f31f85c9a56809975616f3a82b.gif" alt="Cute girl coding" width="60%"/>  
 <br>
 
 <h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
@@ -10,11 +10,11 @@
 
 </div>
 
-
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NairaAhmed&style=flat&color=pink&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairaAhmed&count_bg=%23F7A8B8&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram Badge](https://img.shields.io/badge/NairaAhmed-grey?style=flat&logo=telegram)](https://t.me/your_username_here)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Naira%20Ahmed-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naira-ahmed-613171324/)
 
 ---
 
@@ -42,5 +42,6 @@ class NairaAhmed:
 
 me = NairaAhmed()
 me.say_hi()
+
 
 
