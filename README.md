@@ -1,6 +1,8 @@
 <div align="center" width="50%">
 
 <img src="https://i.pinimg.com/originals/85/9d/d4/859dd4f31f85c9a56809975616f3a82b.gif" alt="Cute girl coding" width="60%"/>  
+<video src="https://i.imgur.com/kxv8lqM.mp4" width="60%" autoplay loop muted></video>
+
 <br>
 
 <h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
