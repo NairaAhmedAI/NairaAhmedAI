@@ -11,7 +11,7 @@
 <h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
 <p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+with+PyTorch;Computer+Vision+%26+NLP+Developer;I'm+Just+Grail+💫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+with+PyTorch;Computer+Vision+%26+NLP+Developer;I'm+Just+Gril+💫)](https://git.io/typing-svg)
 
 </div>
 
