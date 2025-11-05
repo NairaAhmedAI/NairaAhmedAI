@@ -49,7 +49,7 @@ class NairaAhmed:
         self.focus = ["Computer Vision", "Ethical AI", "Innovation"]
     
     def say_hi(self):
-        print("Hi there, I'm Naira 👩‍💻 — building the future with AI & love 💗")
+        print("Hi there, I'm Naira 👩‍💻 — building the future with AI 💗")
 
 me = NairaAhmed()
 me.say_hi()
