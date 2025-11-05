@@ -8,6 +8,7 @@
 
 <br>
 
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="10%" alt="Laptop"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%" alt="Cat"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Sparkles/Pink%20Heart.png" width="10%" alt="Heart"/> </div> ```
 <h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
 <p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast</p>
 
