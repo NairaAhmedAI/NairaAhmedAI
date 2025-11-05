@@ -10,7 +10,7 @@
 <h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
 <p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast</p>
 
-<img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="518" height="518" alt="a cartoon of a girl looking at a laptop with the words effect credit written above her" fetchpriority="high" style="max-width: 518px;">
+<img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="690" height="690" alt="a cartoon of a girl looking at a laptop with the words effect credit written above her" fetchpriority="high" style="max-width: 690px;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+with+PyTorch;Computer+Vision+%26+NLP+Developer;I'm+Just+Gril+💫)](https://git.io/typing-svg)
 
