@@ -8,7 +8,7 @@
 
 <br>
 
-<h1 style="color:#FF69B4;">💫 Naira Ahmed 👑</h1>
+<h1 style="color:#FF69B4;"> Naira Ahmed 👑</h1>
 <p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP Enthusiast</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+with+PyTorch;Computer+Vision+%26+NLP+Developer;I'm+Just+Grail+💫)](https://git.io/typing-svg)
@@ -20,8 +20,6 @@
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Naira%20Ahmed-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naira-ahmed-613171324/)
-![Profile Views](https://komarev.com/ghpvc/?username=NairaAhmed&style=flat&color=pink&label=PROFILE+VIEWS)
-![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairaAhmed&count_bg=%23FFB6C1&title_bg=%23555555&icon=star.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
@@ -36,6 +34,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-FF8DA1?style=flat&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -53,8 +52,6 @@ class NairaAhmed:
         print("Hi there, I'm Naira 👩‍💻 — building the future with AI & love 💗")
 
 me = NairaAhmed()
-me.say_hi()
-
 me.say_hi()
 
 
