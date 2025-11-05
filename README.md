@@ -12,14 +12,7 @@
 
 ---
 
-### 🎧 Busy coding & vibing to:
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=NairaAhmed&style=flat&color=pink&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairaAhmed&count_bg=%23F7A8B8&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram Badge](https://img.shields.io/badge/NairaAhmed-grey?style=flat&logo=telegram)](https://t.me/your_username_here)
+/NairaAhmed-grey?style=flat&logo=telegram)](https://t.me/your_username_here)
 
 ---
 
