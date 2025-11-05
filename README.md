@@ -1,11 +1,9 @@
 <div align="center">
-
+<h1 style="color:#FF69B4;">🌸 Naira Ahmed 🌸 </h1>
+<p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP | MLOps Enthusiast👑</p>
 <!-- 🌸 Cute girl coding GIF -->
 <img src="https://media1.tenor.com/m/kpVnSAU68RUAAAAC/working-xtremeverse.gif" width="689.9999999999999" height="561.144578313253" alt="a cartoon drawing of a girl sitting in front of a laptop" fetchpriority="high" style="max-width: 690px;">
 <br>
-
-<h1 style="color:#FF69B4;">🌸 Naira Ahmed 👑</h1>
-<p style="color:#FFB6C1;">💻 Deep Learning Engineer | Pythonista | Vision & NLP | MLOps Enthusiast</p>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+with+PyTorch;Computer+Vision+%26+NLP+Developer;MLOps+%7C+Model+Deployment+💫" alt="Typing animation"/>
