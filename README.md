@@ -10,12 +10,7 @@
 
 </div>
 
----
 
-### 🎧 Vibe Mood — "I'm Just a Girl"
-[![I'm Just a Girl](https://img.youtube.com/vi/PHzOOQfhPFg/0.jpg)](https://www.youtube.com/watch?v=PHzOOQfhPFg)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NairaAhmed&style=flat&color=pink&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairaAhmed&count_bg=%23F7A8B8&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
