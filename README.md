@@ -2,7 +2,7 @@
 <h1 style="color:#FF69B4;">🌸 Naira Ahmed 🌸 </h1>
 <p style="color:#FFB6C1;"> Deep Learning Engineer | Pythonista | Vision & NLP | MLOps Enthusiast👑</p>
 <!-- 🌸 Cute girl coding GIF -->
-<img src="https://media1.tenor.com/m/kpVnSAU68RUAAAAC/working-xtremeverse.gif" width="689.9999999999999" height="561.144578313253" alt="a cartoon drawing of a girl sitting in front of a laptop" fetchpriority="high" style="max-width: 690px;">
+<img src="https://media1.tenor.com/m/dte0c--dnZ0AAAAC/monitor-bright.gif" width="690" height="690" alt="a computer generated image of a girl with purple hair and a ponytail" fetchpriority="high" style="max-width: 690px;">
 <br>
 
 <!-- Typing SVG -->
