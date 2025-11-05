@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- 🌸 Cute girl coding GIF -->
-<img src="https://i.pinimg.com/originals/9d/1b/cc/9d1bcc5b4a1b0b3a1d4d8e3d4a47e9f3.gif" alt="Cute girl coding with cat" width="60%"/>  
-
+<img src="https://media1.tenor.com/m/kpVnSAU68RUAAAAC/working-xtremeverse.gif" width="689.9999999999999" height="561.144578313253" alt="a cartoon drawing of a girl sitting in front of a laptop" fetchpriority="high" style="max-width: 690px;">
 <br>
 
 <h1 style="color:#FF69B4;">🌸 Naira Ahmed 👑</h1>
