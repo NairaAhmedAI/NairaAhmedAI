@@ -10,15 +10,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Naira%20Ahmed-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naira-ahmed-613171324/)
-
-</div>
-
----
 
 ##  Tools & Technologies I use
 
@@ -51,4 +43,18 @@ me.say_hi()
 
 
 
+---
+
+## Contact 💬
+
+<div align="center">
+
+<h2>
+    Contact with me <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Handshake.gif" height="32px">
+</h2>
+
+| [<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/linkedin-icon.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/naira-ahmed-613171324/) |
+|:---:|
+
+---
 
