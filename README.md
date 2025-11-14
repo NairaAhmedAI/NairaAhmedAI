@@ -50,9 +50,9 @@ me.say_hi()
     Contact with me<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Handshake.gif" height="32px">
 </h2>
 
-| [<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/GitHub.png" width="36">](https://github.com/NairaAhmedAI) | 
-[<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/email.png" width="36">](mailto:nairaahmed.ai4@gmail.com) | 
-[<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/linkedin-icon.png" width="36">](https://www.linkedin.com/in/naira-ahmed-613171324/) |
+ [<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/GitHub.png" width="36">](https://github.com/NairaAhmedAI)
+[<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/email.png" width="36">](mailto:nairaahmed.ai4@gmail.com)
+[<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/linkedin-icon.png" width="36">](https://www.linkedin.com/in/naira-ahmed-613171324/)
 
 
 ---
