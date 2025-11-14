@@ -43,7 +43,6 @@ me.say_hi()
 ```
 
 ---
-
 ## Contact 💬
 <div align="center">
 
@@ -55,7 +54,6 @@ me.say_hi()
 [<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/email.png" alt="email logo" height="32">](mailto:nairaahmed.ai4@gmail.com) | 
 [<img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/linkedin-icon.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/naira-ahmed-613171324/) |
 |:---:|:---:|:---:|
-
 ---
 
 
