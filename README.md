@@ -43,8 +43,6 @@ me.say_hi()
 
 
 
----
-
 ## Contact 💬
 
 <div align="center">
